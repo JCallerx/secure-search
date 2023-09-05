@@ -34,7 +34,7 @@ This tutorial will demonstrate how to build your own secure search engine that y
 
 </p>
 <p>
-"Begin by deploying a Linux server on Microsoft Azure, utilizing as many resources as you consider necessary. Set a username and password that you will remember (you will need this information to SSH into your virtual machine). Once the server is deployed, open the Command Prompt on your Windows machine and enter the following command: ssh (username)@(IP of Virtual Machine), for example: ssh rxlab@192.168.30.16. Execute this command and enter your password when prompted. You should now be successfully connected to your Linux server. Once connectected it is best practice to update Linux repositories by running the command "sudo apt update && sudo apt upgrade -y"  to ensure you are on the latest, most secure repositories. "
+Begin by deploying a Linux server on Microsoft Azure, utilizing as many resources as you consider necessary. Set a username and password that you will remember (you will need this information to SSH into your virtual machine). Once the server is deployed, open the Command Prompt on your Windows machine and enter the following command: ssh (username)@(IP of Virtual Machine), for example: ssh rxlab@192.168.30.16. Execute this command and enter your password when prompted. You should now be successfully connected to your Linux server. Once connectected it is best practice to update Linux repositories by running the command "sudo apt update && sudo apt upgrade -y"  to ensure you are on the latest, most secure repositories. 
 </p>
 <br />
 
